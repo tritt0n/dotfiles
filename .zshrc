@@ -86,5 +86,6 @@ source $ZSH/oh-my-zsh.sh
  alias uninstall="sudo pacman -Rs"
  alias update="sudo pacman -Syu"
  alias repoupdate="sudo pacman -Syy"
- alias yinstall="yaourt -S"
+ alias ainstall="apacman -S"
  alias i3edit="geany ~/.config/i3/config"
+ alias go2git="cd ~/Projects"
